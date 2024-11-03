@@ -8,4 +8,5 @@ body {
 
 .emoji {
     font-size: 6rem;
+    user-select: none;
 }
